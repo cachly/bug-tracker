@@ -1,6 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Cachly. This is not used for technical support.
+  If you have questions please email support@cach.ly.
 title: ''
 labels: bug
 assignees: cachly
