@@ -7,14 +7,10 @@ assignees: cachly
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Please describe the feature that you are requesting in detail**
+A clear and concise description of what the problem is. Ex. I would like the cache details screen [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Do you feel this feature will benefit all Cachly users?**
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
