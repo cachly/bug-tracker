@@ -9,7 +9,7 @@ assignees: cachly
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. If this is a crash, please try to provide a crash log: https://help.cachly.com/article/115-how-can-i-send-a-crash-log
 
 **To Reproduce**
 Steps to reproduce the behavior:
